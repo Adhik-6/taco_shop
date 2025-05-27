@@ -46,13 +46,17 @@ taco_web/
 ## 📸 Screenshots
 
 ### Home Page  
-![Home Page Screenshot](./screenshots/homePage.png)
+![Home Page Screenshot](./screenshots/menu_page.png)
 
 ### Store Hours  
 ![Store Hours Screenshot](./screenshots/storeHours_page.png)
 
 ### Contact Us  
 ![Contact Page Screenshot](./screenshots/contact_page.png)
+
+## 🔗 Links
+
+The live site is up and available [here](https://adhik-6.github.io/taco_shop/).
 
 ## 📚 Credits
 
