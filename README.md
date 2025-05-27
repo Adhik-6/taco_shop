@@ -49,7 +49,7 @@ taco_web/
 ![Home Page Screenshot](./screenshots/menu_page.png)
 
 ### Store Hours  
-![Store Hours Screenshot](./screenshots/storeHours_page.png)
+![Store Hours Screenshot](./screenshots/timings_page.png)
 
 ### Contact Us  
 ![Contact Page Screenshot](./screenshots/contact_page.png)
