@@ -46,13 +46,13 @@ taco_web/
 ## 📸 Screenshots
 
 ### Home Page  
-![Home Page Screenshot](./tacos_images/taco-4.webp)
+![Home Page Screenshot](./screenshots/homePage.png)
 
 ### Store Hours  
-![Store Hours Screenshot](./tacos_images/taco-2.jpg)
+![Store Hours Screenshot](./screenshots/storeHours_page.png)
 
 ### Contact Us  
-![Contact Page Screenshot](./tacos_images/taco-3.jpeg)
+![Contact Page Screenshot](./screenshots/contact_page.png)
 
 ## 📚 Credits
 
@@ -62,7 +62,7 @@ taco_web/
 
 ## Acknowledgments
 
-- I learned basic HTML and CSS concepts through this [HTML](https://youtu.be/kUMe1FH4CHE?si=MX1EwNO6EJGGic7T) and [CSS](https://youtu.be/OXGznpKZ_sA?si=Ly4-aC5mPY-QgtIm) by FreeCodeCamp.
+- I learned basic HTML and CSS concepts through this [HTML](https://youtu.be/kUMe1FH4CHE?si=MX1EwNO6EJGGic7T) and [CSS](https://youtu.be/OXGznpKZ_sA?si=Ly4-aC5mPY-QgtIm) videos by FreeCodeCamp.
   
 ---
 
